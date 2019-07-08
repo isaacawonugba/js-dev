@@ -9,7 +9,7 @@
   "ecmaVersion": 7,
   "sourceType": "module"
   },
-  "env": {
+  "latest": {
   "browser": true,
   "node": true,
   "mocha": true
